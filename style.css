@@ -1,0 +1,55 @@
+body {
+  background-color: #1d212f;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+label {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+input[type="text"], input[type="date"], input[type="tel"], input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: black;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #323c5e;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: black;
+}
